@@ -1,9 +1,9 @@
 # Programaci-n_orientada_Objts
 Programación orienta a objetos. Ejercicios matemáticos, interactivos y experimentales
 
-# Advanced_AI — Resolución de Problemas Algorítmicos con Python
+# Advanced— Resolución de Problemas Algorítmicos con Python
 
-Este proyecto es un cuaderno interactivo (Jupyter Notebook) que aborda diversos problemas clásicos de inteligencia computacional y algoritmos numéricos intermedios, estructurados de forma pedagógica y progresiva. Fue diseñado como práctica avanzada de programación, utilizando Python puro, estructuras de datos orientadas a objetos y visualización gráfica de bajo nivel (pixel a pixel).
+Este proyecto es un cuaderno interactivo (Jupyter Notebook) que aborda diversos problemas clásicos de inteligencia computacional y algoritmos numéricos intermedios, estructurados de forma pedagógica y progresiva. Fue diseñado como práctica avanzada de programación, utilizando Python, estructuras de datos orientadas a objetos y visualización gráfica de bajo nivel (pixel a pixel).
 
 ##  Contenido principal
 
